@@ -1,0 +1,16 @@
+### Hi there 👋
+
+<!--
+**x-force21/x-force21** is an ✨ integrationdile ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on our integration and CI
+- 🌱 I’m currently learning with MinTic
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: Once I saw the guy from Rammstein 
+-->
